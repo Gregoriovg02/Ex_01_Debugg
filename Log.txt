@@ -1,0 +1,5 @@
+abr. 28, 2023 5:02:24 PM Principal main
+INFO: Seu calculo foi finalizado! 
+Seu resultado foi de: 20.0
+abr. 28, 2023 6:46:51 PM Principal main
+INFO: Iniciando a Calculadora!
